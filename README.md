@@ -1,5 +1,7 @@
 # Minesweeper
-Alternative version of Minesweeper
+## NTUA 2023 Medialab project
+
+Alternative version of Minesweeper.
 
 
 Set up instructions:
